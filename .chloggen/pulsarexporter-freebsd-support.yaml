@@ -1,0 +1,6 @@
+change_type: enhancement
+component: exporter/pulsar
+note: Add freebsd/amd64 as a supported build platform.
+issues: [15781]
+subtext:
+change_logs: [user]
